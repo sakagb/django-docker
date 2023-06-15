@@ -1,0 +1,7 @@
+Hello {{ user }},
+
+This confirms your sign up to django-docker.
+
+Thank for your participation in this project!
+
+The Django Docker team
